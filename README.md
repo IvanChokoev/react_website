@@ -1,5 +1,7 @@
 # Getting Started with Create React App
 
+This is my first commit to a simple Blog Website using the React Framework
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
